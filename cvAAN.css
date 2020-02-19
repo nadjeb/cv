@@ -1,0 +1,119 @@
+h1 {
+	color: red;
+	text-align: center
+}
+
+.corps
+{
+	margin-top: 1%;
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-bottom: 1%;
+	border:5px;
+	padding:10px;
+	background:linen;}
+body {
+		
+	background-color: #999999;
+}
+.titre
+{
+	margin-top: 30px;
+	font-family: Georgia, "Times New Roman",
+			Times, serif;
+	font-style: oblique;
+	font-weight: 900;
+	color: navy;
+	text-align: center;
+  }
+
+ul.navigationbar {
+	text-align: center;
+	padding-top:20px
+     }
+	
+ul.navigationbar li {
+	display: inline;
+	padding: 15px;
+}
+ .photo
+ {
+	margin-top: 30px;
+	float:right;
+ }
+.contact
+{
+	margin-top: 30px;
+	margin-left: 20px;
+	color: black;
+}
+
+.Formation{
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+.Formation h2 {
+	margin-left: 10%;
+}
+.Formation p {
+	margin-left: 15%;
+}
+
+.Experience{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+
+}
+.Experience h2 {
+	margin-left: 10%;
+}
+.Experience h4 {
+	margin-left: 13%;
+}
+.Experience p {
+	margin-left: 15%;
+}
+
+.Projet_Competences
+{
+  font-style: italic;
+  margin-left: 20px;
+}
+.Projet_Competences h2 {
+	color: green;
+	margin-left: 10%;
+}
+
+.Projet_Competences p {
+	margin-left: 15%;
+}
+.Projet_Competences ul{
+	width: 500px;
+	margin-bottom: 20px;
+	overflow:hidden;
+	margin-left: 10%;
+}
+.Projet_Competences ul li{
+	line-height:1.5 em;
+	float:left;
+	display: inline;
+	width: 50%;
+}
+.Pro_Bénévolat
+{
+ font-style: italic;
+}
+.autre dt {
+	font-weight: 900;
+	color: green;
+	margin-left: 10%;
+}
+
+.autre dd {
+	margin-left: 15%;
+	
+}
+
+
