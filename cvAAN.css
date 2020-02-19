@@ -38,11 +38,8 @@ ul.navigationbar li {
 }
  .photo
  {
-	float:right;
 	margin-top: 30px;
-	margin-right: 20px;
-	width:150px;
-	height:150px;  
+	float:right;
  }
 .contact
 {
